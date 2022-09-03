@@ -1,0 +1,28 @@
+* {
+    background-color: skyblue;
+}
+body {
+    text-align: center;
+}
+.data {
+    border: 1px solid;
+    text-align: left;
+}
+.foto {
+    margin: 5px;
+    text-align: center;
+    border-bottom: 2px double black;
+}
+img {
+    height: 156px;
+    width: 208px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 2px 2px blue;
+    opacity: 100%;
+}
+div.data details {
+    text-align: center;
+}
+div.data details div {
+    text-align: left;
+}
